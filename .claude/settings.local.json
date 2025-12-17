@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)"
+    ],
+    "additionalDirectories": [
+      "/Users/dvd/Downloads/human_behaviour_data",
+      "/Users/dvd/PycharmProjects/EasyR1"
+    ]
+  }
+}
